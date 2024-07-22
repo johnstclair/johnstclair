@@ -1,12 +1,35 @@
-[![](https://visitcount.itsvg.in/api?id=johnstclair&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=johnstclair&label=Visitors&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 # About Me
 
-```json
+```nix
+{ config, ... }:
+
 {
-  "username": "johnstclair",
-  "name": "John St. Clair",
-  "role": "Software Devolper",
+  let
+    profile = {
+      username = "johnstclair";
+      name = "John St. Clair";
+      collaborative = true;
+      student = true;
+      organizations = none;
+      learning = [
+        nix # i will always be learning this
+        react-native
+      ];
+    };
+
+  in
+  {
+    users.users.${profile.username} = {
+      isNormalUser = true;
+      description = ${profile.name};
+      organizations = ${profile.organizations};
+    };
+  
+    programs.collaborative.enable = ${profile.collaborative};
+    programs.student.enable = ${profile.student};
+  }
 }
 ```
 
@@ -37,18 +60,27 @@
 ### Tools
 
 <details open>
-  <summary><b>Frameworks and Databases</b></summary>
+  <summary><b>Operating System</b></summary>
   <br>
 
-[![Frameworks and Databases](https://skillicons.dev/icons?i=react,express,mongodb,vite)](https://skillicons.dev)
+[![Operating Systems](https://skillicons.dev/icons?i=linux,nix)](https://skillicons.dev)
 </details>
 
 <details open>
-  <summary><b>Applications and  Technologies</b></summary>
+  <summary><b>Frameworks and Databases</b></summary>
   <br>
 
-[![Applications and  Technologies](https://skillicons.dev/icons?i=linux,nix,git,github,godot,neovim,arduino)](https://skillicons.dev)
+[![Frameworks and Databases](https://skillicons.dev/icons?i=react,express,mongodb)](https://skillicons.dev)
 </details>
+
+<details open>
+  <summary><b>Applications, CLI's and Technologies</b></summary>
+  <br>
+
+[![Applications, CLI's and Technologies](https://skillicons.dev/icons?i=git,github,godot,neovim,arduino,vite)](https://skillicons.dev)
+</details>
+
+
 
 ## Stats (dont look)
 
