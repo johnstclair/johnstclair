@@ -13,7 +13,7 @@
 ## Skills
 
 ### Languages
-<span style="display:inline-block; width: 10px;">
+<span style="display:inline-block; margin-left: 20px;">
 <details>
 <summary><b>Programming Languages</b></summary>
 <br>
@@ -30,7 +30,6 @@
 
 <details>
 <summary><b>Spoken Languages</b></summary>
-<br/>
 &emsp;None Yet
 </details>
 </span>
