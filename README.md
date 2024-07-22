@@ -13,26 +13,26 @@
 ## Skills
 
 ### Languages
-<span style="display:inline-block; margin-left: 20px;">
+&emsp;
 <details>
 <summary><b>Programming Languages</b></summary>
 <br>
 
 [![Programming Languages](https://skillicons.dev/icons?i=c,cs,js,typescript,python)](https://skillicons.dev)
 </details>
-
+&emsp;
 <details>
 <summary><b>Markup and Style Languages</b></summary>
 <br>
 
 [![Markup and Style Languages](https://skillicons.dev/icons?i=html,css,markdown)](https://skillicons.dev)
 </details>
-
+&emsp;
 <details>
 <summary><b>Spoken Languages</b></summary>
 &emsp;None Yet
 </details>
-</span>
+
 
 ### Tools
 
