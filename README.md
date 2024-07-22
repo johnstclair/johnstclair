@@ -12,17 +12,24 @@ I'm John St. Clair, a software devolper that enjoys game devolpement, frontend w
 </details>
 
 <details open>
-  <summary><b>🎨 Markup and Style Languages</b></summary>
+  <summary><b>Markup and Style Languages</b></summary>
   <br>
 
 [![Markup and Style Languages](https://skillicons.dev/icons?i=html,css,markdown)](https://skillicons.dev)
 </details>
 
 <details open>
+  <summary><b>Frameworks and Databases</b></summary>
+  <br>
+
+[![Frameworks and Databases](https://skillicons.dev/icons?i=react,mongodb,vite)](https://skillicons.dev)
+</details>
+
+<details open>
   <summary><b>Applications and  Technologies</b></summary>
   <br>
 
-[![Applications and  Technologies](https://skillicons.dev/icons?i=linux,nix,mongodb,arduino,bash,git,github,godot)](https://skillicons.dev)
+[![Applications and  Technologies](https://skillicons.dev/icons?i=linux,nix,git,github,godot,arduino)](https://skillicons.dev)
 </details>
 
 ## Stats (dont look)
