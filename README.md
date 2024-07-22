@@ -5,7 +5,7 @@ I'm John St. Clair, a software devolper that enjoys game devolpement, frontend w
 ## Stats (dont look)
 
 <details>
-  <summary><b>Don't Look</b></summary>
+  <summary><b>General</b></summary>
   <br>
   
 <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=johnstclair&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD"/>
