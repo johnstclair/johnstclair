@@ -2,6 +2,15 @@
 
 I'm John St. Clair, a software devolper that enjoys game devolpement, frontend work and really anything computers
 
+## Skills
+
+<details open>
+  <summary><b>Languages</b></summary>
+  <br>
+
+[![Programming Languages](https://skillicons.dev/icons?i=c,,csharp,js,typescript,python)](https://skillicons.dev)
+</details>
+
 ## Stats (dont look)
 
 <details>
