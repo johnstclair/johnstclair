@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=johnstclair&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-# About Me
+# About <span style="color:blue">Me</span>
 
 ```json
 {
@@ -14,21 +14,21 @@
 
 ### Languages
 
-<details>
+<details open>
 <summary><b>Programming Languages</b></summary>
 <br>
 
 [![Programming Languages](https://skillicons.dev/icons?i=c,cs,js,typescript,python)](https://skillicons.dev)
 </details>
 
-<details>
+<details open>
 <summary><b>Markup and Style Languages</b></summary>
 <br>
 
 [![Markup and Style Languages](https://skillicons.dev/icons?i=html,css,markdown)](https://skillicons.dev)
 </details>
 
-<details>
+<details open>
 <summary><b>Spoken Languages</b></summary>
 &emsp;None Yet
 </details>
@@ -36,14 +36,14 @@
 
 ### Tools
 
-<details>
+<details open>
   <summary><b>Frameworks and Databases</b></summary>
   <br>
 
 [![Frameworks and Databases](https://skillicons.dev/icons?i=react,express,mongodb,vite)](https://skillicons.dev)
 </details>
 
-<details>
+<details open>
   <summary><b>Applications and  Technologies</b></summary>
   <br>
 
