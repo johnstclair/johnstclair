@@ -12,3 +12,10 @@ I'm John St. Clair, a software devolper that enjoys game devolpement, frontend w
 <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=johnstclair&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD"/>
 
 </details>
+
+<details>
+  <summary><b>Streak</b></summary>
+  <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=johnstclair&theme=transparent&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+</details>
