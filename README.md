@@ -12,9 +12,7 @@
 
 ## Skills
 
-
-### <b>Languages</b>
-  <br>
+### Languages
 
 <details>
   <summary><b>Programming Languages</b></summary>
@@ -37,14 +35,16 @@
 None Yet
 </details>
 
-<details open>
+### Tools
+
+<details>
   <summary><b>Frameworks and Databases</b></summary>
   <br>
 
 [![Frameworks and Databases](https://skillicons.dev/icons?i=react,express,mongodb,vite)](https://skillicons.dev)
 </details>
 
-<details open>
+<details>
   <summary><b>Applications and  Technologies</b></summary>
   <br>
 
