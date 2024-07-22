@@ -14,26 +14,24 @@
 
 ### Languages
 
-<details>
-  <summary><b>Programming Languages</b></summary>
-  <br>
-
-[![Programming Languages](https://skillicons.dev/icons?i=c,cs,js,typescript,python)](https://skillicons.dev)
-</details>
-
-<details>
-  <summary><b>Markup and Style Languages</b></summary>
-  <br>
-
-[![Markup and Style Languages](https://skillicons.dev/icons?i=html,css,markdown)](https://skillicons.dev)
-</details>
-
-<details>
-  <summary><b>Spoken Languages</b></summary>
-  <br>
-
-None Yet
-</details>
+  <details>
+    <summary><b>Programming Languages</b></summary>
+    <br>
+  
+  [![Programming Languages](https://skillicons.dev/icons?i=c,cs,js,typescript,python)](https://skillicons.dev)
+  </details>
+  
+  <details>
+    <summary><b>Markup and Style Languages</b></summary>
+    <br>
+  
+  [![Markup and Style Languages](https://skillicons.dev/icons?i=html,css,markdown)](https://skillicons.dev)
+  </details>
+  
+  <details>
+    <summary><b>Spoken Languages</b></summary>
+    None Yet
+  </details>
 
 ### Tools
 
