@@ -8,7 +8,7 @@ I'm John St. Clair, a software devolper that enjoys game devolpement, frontend w
   <summary><b>Languages</b></summary>
   <br>
 
-[![Programming Languages](https://skillicons.dev/icons?i=c,,csharp,js,typescript,python)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=c,cs,js,typescript,python)](https://skillicons.dev)
 </details>
 
 ## Stats (dont look)
