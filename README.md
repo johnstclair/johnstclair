@@ -22,14 +22,14 @@ I'm John St. Clair, a software devolper that enjoys game devolpement, frontend w
   <summary><b>Frameworks and Databases</b></summary>
   <br>
 
-[![Frameworks and Databases](https://skillicons.dev/icons?i=react,mongodb,vite)](https://skillicons.dev)
+[![Frameworks and Databases](https://skillicons.dev/icons?i=react,express,mongodb,vite)](https://skillicons.dev)
 </details>
 
 <details open>
   <summary><b>Applications and  Technologies</b></summary>
   <br>
 
-[![Applications and  Technologies](https://skillicons.dev/icons?i=linux,nix,git,github,godot,arduino)](https://skillicons.dev)
+[![Applications and  Technologies](https://skillicons.dev/icons?i=linux,nix,git,github,godot,neovim,arduino)](https://skillicons.dev)
 </details>
 
 ## Stats (dont look)
