@@ -12,8 +12,8 @@
 
 ## Skills
 
-<details open>
-  <summary><b>Languages</b></summary>
+
+### <b>Languages</b>
   <br>
 
 <details>
@@ -34,9 +34,7 @@
   <summary><b>Spoken Languages</b></summary>
   <br>
 
-### None Yet
-</details>
-
+None Yet
 </details>
 
 <details open>
