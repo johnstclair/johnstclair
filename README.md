@@ -31,8 +31,7 @@
 <details>
 <summary><b>Spoken Languages</b></summary>
 <br/>
-&emsp;
-None Yet
+&emsp;None Yet
 </details>
 </span>
 
