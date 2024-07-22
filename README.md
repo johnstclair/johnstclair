@@ -1,6 +1,12 @@
 [![](https://visitcount.itsvg.in/api?id=johnstclair&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-I'm John St. Clair, a software devolper that enjoys game devolpement, frontend work and really anything computers
+```json
+{
+  "username": "johnstclair",
+  "name": "John St. Clair",
+  "role": "Software Devolper",
+}
+```
 
 ## Skills
 
