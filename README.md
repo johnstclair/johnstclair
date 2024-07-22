@@ -3,9 +3,7 @@
 # About Me
 
 ```nix
-{ config, ... }:
-
-{
+{ config, ... }: {
   let
     profile = {
       username = "johnstclair";
@@ -18,7 +16,6 @@
         react-native
       ];
     };
-
   in
   {
     users.users.${profile.username} = {
@@ -26,7 +23,6 @@
       description = ${profile.name};
       organizations = ${profile.organizations};
     };
-  
     programs.collaborative.enable = ${profile.collaborative};
     programs.student.enable = ${profile.student};
   }
