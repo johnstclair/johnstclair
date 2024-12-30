@@ -15,7 +15,8 @@
       organizations = none;
       learning = [
         nix # i will always be learning this
-        react-native
+        tauri
+        rust
       ];
     };
   in
