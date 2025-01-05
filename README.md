@@ -87,8 +87,8 @@
   <summary><b>General</b></summary>
   <br>
   
-<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=johnstclair&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD"/>
-<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=johnstclair&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD"/>
+<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=johnstclair&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=FFFFFF"/>
+<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=johnstclair&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=FFFFFF"/>
 
 </details>
 
