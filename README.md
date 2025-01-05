@@ -62,7 +62,7 @@
   <summary><b>Operating System</b></summary>
   <br>
 
-[![Operating Systems](https://skillicons.dev/icons?i=linux,nix)](https://skillicons.dev)
+[![Operating Systems](https://skillicons.dev/icons?i=linux,nix,apple)](https://skillicons.dev)
 </details>
 
 <details open>
