@@ -59,7 +59,7 @@
 ### Tools
 
 <details open>
-  <summary><b>Operating System</b></summary>
+  <summary><b>Operating Systems</b></summary>
   <br>
 
 [![Operating Systems](https://skillicons.dev/icons?i=linux,nix,apple)](https://skillicons.dev)
