@@ -76,7 +76,7 @@
   <summary><b>Applications, CLI's and Technologies</b></summary>
   <br>
 
-[![Applications, CLI's and Technologies](https://skillicons.dev/icons?i=git,github,godot,neovim,arduino,vite)](https://skillicons.dev)
+[![Applications, CLI's and Technologies](https://skillicons.dev/icons?i=git,github,godot,node,neovim,arduino,vite)](https://skillicons.dev)
 </details>
 
 
