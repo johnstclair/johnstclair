@@ -96,5 +96,5 @@
   <summary><b>Streak</b></summary>
   <br>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=johnstclair&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=johnstclair&hide_border=true&theme=transparent)](https://git.io/streak-stats)
 </details>
