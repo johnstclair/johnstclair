@@ -14,7 +14,7 @@
       student = true;
       organizations = [ "stlrapp" ];
       learning = [
-        nix # i will always be learning this
+        nix # i will always be learning nix
         tauri
         rust
       ];
