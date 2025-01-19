@@ -12,7 +12,7 @@
       name = "John St. Clair";
       collaborative = true;
       student = true;
-      organizations = none;
+      organizations = [ "stlrapp" ];
       learning = [
         nix # i will always be learning this
         tauri
