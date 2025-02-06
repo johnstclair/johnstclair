@@ -69,7 +69,7 @@
   <summary><b>Frameworks and Databases</b></summary>
   <br>
 
-[![Frameworks and Databases](https://skillicons.dev/icons?i=react,express,mongodb)](https://skillicons.dev)
+[![Frameworks and Databases](https://skillicons.dev/icons?i=react,tauri,express,mongodb)](https://skillicons.dev)
 </details>
 
 <details open>
