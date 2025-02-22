@@ -15,7 +15,6 @@
       organizations = [ "stlrapp" ];
       learning = [
         nix # i will always be learning nix
-        tauri
         rust
       ];
     };
