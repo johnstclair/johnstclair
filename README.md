@@ -15,7 +15,6 @@
       organizations = [ "stlrapp" ];
       learning = [
         nix # i will always be learning nix
-        rust
       ];
     };
   in
@@ -39,7 +38,7 @@
 <summary><b>Programming Languages</b></summary>
 <br>
 
-[![Programming Languages](https://skillicons.dev/icons?i=c,cs,js,typescript,python)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=c,rust,js,typescript,python)](https://skillicons.dev)
 </details>
 
 <details open>
