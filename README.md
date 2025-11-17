@@ -9,7 +9,7 @@
       name = "John St. Clair";
       collaborative = true;
       student = true;
-      organizations = [ "stlrapp" ];
+      organizations = null;
       learning = [
         nix # i will always be learning nix
       ];
